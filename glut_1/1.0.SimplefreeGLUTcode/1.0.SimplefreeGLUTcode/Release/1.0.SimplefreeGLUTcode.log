@@ -1,0 +1,2 @@
+﻿  SimplefreeGLUTcode.cpp
+C:\Users\ss\Desktop\2022-01 강의자료\그래픽스\1.0.SimplefreeGLUTcode\1.0.SimplefreeGLUTcode\SimplefreeGLUTcode.cpp(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
